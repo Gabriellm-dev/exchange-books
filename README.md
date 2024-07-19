@@ -8,7 +8,7 @@ An API for a book exchange platform, built using Node.js and Express. This platf
 - Book Listing and Management
 - Book Exchange Requests and Approvals
 - User Reviews and Ratings
-- Sequelize ORM for Database Management
+- Prisma ORM for Database Management
 
 ### Technologies
 - Node.js
