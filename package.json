@@ -1,0 +1,17 @@
+{
+  "name": "exchange-books",
+  "version": "1.0.0",
+  "description": "An API for a book exchange platform, built using Node.js and Express. This platform allows users to register, list, and exchange books with others. It includes features for managing users, books, exchanges, and reviews, with a PostgreSQL database for storage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^5.17.0",
+    "express": "^4.19.2",
+    "prisma": "^5.17.0"
+  }
+}
